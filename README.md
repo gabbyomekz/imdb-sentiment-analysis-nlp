@@ -19,7 +19,7 @@ This project demonstrates:
 ## 📂 Dataset
 
 - **Dataset:** IMDB Movie Reviews Dataset  
-- **Source:** Kaggle  
+- **Source:** The dataset was obtained from Kaggle: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).  
 - **Size:** 50,000 reviews  
 - **Classes:**  
   - Positive  
