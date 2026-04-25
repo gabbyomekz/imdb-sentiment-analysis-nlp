@@ -1,0 +1,5 @@
+# Ignore Notebook checkpoints
+.ipynb_checkpoints/
+
+# Due to huge dataset
+IMDB Dataset.csv
